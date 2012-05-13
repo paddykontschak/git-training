@@ -21,3 +21,4 @@ For Commits:
 - add a "Signed-off-by: Your Name <you@example.com>" line to the commit message (or just use the option "-s" when committing) to confirm that you agree to the Developer's Certificate of Origin
 - make sure that you have tests for the bug you are fixing
 - make sure that the test suite passes after your commit
+
